@@ -120,14 +120,14 @@ your text.)
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
 
-...Uploaded to Emacs file
+   Uploaded to Emacs file
 
 * How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
 
-... *Emacs* : M-x linum-mode
+   **Emacs** : M-x linum-mode
 
-... *Vi* :set number
+   **Vi** :set number
  
 * Explore the Emacs file browser mode. Describe how it works here.
 
-... Dired is Emacs file explorer and it was most helpful when I wanted to delete a few autosaved files in the directory.  I was able to flag certain files and then view those views for deletion.
+   Dired is Emacs file explorer and it was most helpful when I wanted to delete a few autosaved files in the directory.  I was able to flag certain files and then view those views for deletion.
