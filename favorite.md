@@ -1,6 +1,6 @@
-# Likes and Dislikes
+# Post Project Thoughts:
 
-## Emacs
+## *Emacs*
 
 ### Likes
 * No need to switch between 'Command' and 'insert' while editing (like Vi)
@@ -13,7 +13,7 @@
 * The editor is pretty expansive, so it is not a quick skill to pick up.  I realize the benefit in everything Emacs can provide, but it will take some time to learn it all.
 
 
-## Vi
+## *Vi*
 
 ### Likes
 * The changing of text commands were easy to follow
@@ -25,7 +25,7 @@
 * Search and replace command - I thought it looked a bit messy and it was easy to get lost within all the characters
 
 
-## Nano
+## *Nano*
 
 ### Likes
 * Very easy to learn
